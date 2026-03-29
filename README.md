@@ -1,11 +1,29 @@
 # Student Portal Implementation Using Spring Boot and ReactJS
 
+Developed a modern Student Portal using Spring Boot and ReactJS with authentication, student data management, and a fully responsive UI, improving accessibility across devices.
 
-# Getting Started with Create React App
+### Register Page:
+
+<img width="1873" height="838" alt="image" src="https://github.com/user-attachments/assets/b4b5864e-3a15-453c-b043-c10a16773670" />
+
+### Login Page:
+<img width="1649" height="892" alt="image" src="https://github.com/user-attachments/assets/37619ac9-fb5b-4667-bcce-90e1eb606557" />
+
+### Home Page:
+<img width="1706" height="934" alt="image" src="https://github.com/user-attachments/assets/d24bf1c0-b9fe-4019-bd42-fd08ff7fee1f" />
+
+### Result Page:
+<img width="1701" height="828" alt="image" src="https://github.com/user-attachments/assets/6a77bce8-603d-476a-8c39-0fc5b6348f44" />
+
+### Profile Page:
+<img width="1709" height="753" alt="image" src="https://github.com/user-attachments/assets/649543a9-51de-4a16-99d1-2d5813f6d1db" />
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
